@@ -1,0 +1,26 @@
+{
+  "name": "local-info-page",
+  "description": "A page to display local information, like weather, time, air quality, public transport, etc.",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squarefeet/LocalInfoPage.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "bugs": {
+    "url": "https://github.com/squarefeet/LocalInfoPage/issues"
+  },
+  "homepage": "https://github.com/squarefeet/LocalInfoPage#readme"
+}
